@@ -16,7 +16,7 @@ int main(){
             printf(" LOWER NUMBER PLEASE\n"); 
         }
         else{
-        printf("CONGRATULATIONS bhagavathi YOU GUESSED IT IN %d ATTEMPTS\n",nguesses);
+        printf("CONGRATULATIONS  YOU GUESSED IT IN %d ATTEMPTS\n",nguesses);
         } nguesses++;
     }
 while(guess!=number);
